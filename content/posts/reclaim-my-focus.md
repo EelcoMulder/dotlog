@@ -10,7 +10,8 @@ So many things to do. So many things to learn, to improve, to enjoy. I always lo
 * "burned out"
 * work/life
 * interests
-* leasure/sports/downtime
+* leasure/sports/downtime/offline
 * mindfullness
 * structure
+* new things!
 * 
