@@ -1,3 +1,16 @@
 theme = 'm10c'
 languageCode = 'en-us'
 title = '.log'
+
+[params]
+  author = "Eelco Mulder"
+  description = "logging stuff I find worth logging"
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "brand-github"
+    name = "Github"
+    url = "https://github.com/eelcomulder"
+  [[params.social]]
+    icon = "brand-mastodon"
+    name = "Mastodon"
+    url = "https://mastodon.social/@eelcomulder"
