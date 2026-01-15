@@ -9,18 +9,11 @@
     <lastBuildDate>Wed, 14 Jan 2026 22:18:42 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Playground</title>
+      <title>playground</title>
       <link>//localhost:1313/posts/playground/</link>
       <pubDate>Wed, 14 Jan 2026 22:18:42 +0100</pubDate>
       <guid>//localhost:1313/posts/playground/</guid>
       <description>&lt;h2 id=&#34;playground-for-hugo&#34;&gt;playground for Hugo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;froggy.jpg&#34; alt=&#34;Froggy&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>reclaim my focus</title>
-      <link>//localhost:1313/posts/reclaim-my-focus/</link>
-      <pubDate>Wed, 14 Jan 2026 15:43:12 +0100</pubDate>
-      <guid>//localhost:1313/posts/reclaim-my-focus/</guid>
-      <description>&lt;h2 id=&#34;reclaim-my-focus&#34;&gt;reclaim my focus&lt;/h2&gt;&#xA;&lt;p&gt;So many things to do. So many things to learn, to improve, to enjoy. I always love to dive into new stuff, but sometimes nothing comes out my hands. This happens at work also, sometimes I just keep staring at the task at hand. I can&amp;rsquo;t focus. My head seems full and I can&amp;rsquo;t see the forest for the trees. I can&amp;rsquo;t think about one thing because I&amp;rsquo;m preoccupied by the other. I want that to stop. I want to reclaim my focus.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
